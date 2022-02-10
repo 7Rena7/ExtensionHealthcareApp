@@ -75,6 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         // Prints the current state of the arrays in the console
+        console.clear();
         console.log('ArrayPatients: ' , repository.arrayPatients);
         console.log('ArrayCaregivers: ' , repository.arrayCaregivers);
         console.log('ArrayBothRoles: ' , repository.arrayBothRoles);
