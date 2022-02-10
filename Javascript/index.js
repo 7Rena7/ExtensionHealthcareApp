@@ -1,8 +1,6 @@
 import UserAccount from "./domain.js";
 import Repository from "./repository.js"
 
-//TODO: Add README file that says how to initiate the app in VS Code
-
 //It doesn't run any JS until all the HTML has been loaded 
 document.addEventListener('DOMContentLoaded', function () { 
 
